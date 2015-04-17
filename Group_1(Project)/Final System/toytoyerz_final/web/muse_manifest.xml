@@ -1,0 +1,45 @@
+<manifest alg="2" build="569" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1413107088775">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="add-stock.css" crc="187646547" ref="add-stock"/>
+    <file name="view-companies.css" crc="3851251475" ref="view-companies"/>
+	<file name="login.css" crc="54490237" ref="login"/>
+    <file name="index.css" crc="14942482" ref="index"/>
+    <file name="plant-performance.css" crc="4074529397" ref="plant-performance"/>
+    <file name="view-employees.css" crc="364644662" ref="view-employees"/>
+    <file name="view-quotes.css" crc="3857378694" ref="view-quotes"/>
+    <file name="view-stock.css" crc="3921501399" ref="view-stock"/>
+    <file name="view-invoices.css" crc="516894032" ref="view-invoices"/>
+    <file name="add-parts.css" crc="3937079823" ref="add-parts"/>
+    <file name="generate-quotes.css" crc="461513604" ref="generate-quotes"/>
+    <file name="perform-sales.css" crc="479362686" ref="perform-sales"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index:generate-quotes:view-quotes:view-invoices:add-stock:view-stock:plant-performance:view-employees:view-companies:add-parts:perform-sales"/>
+    <file name="museutils.js" crc="4050293121" ref="index:generate-quotes:view-quotes:view-invoices:add-stock:view-stock:plant-performance:view-employees:view-companies:add-parts:perform-sales"/>
+    <file name="jquery.musemenu.js" crc="4027237583" ref="index:generate-quotes:perform-sales:view-quotes:view-invoices:add-stock:view-stock:plant-performance:view-employees:view-companies:add-parts"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index:generate-quotes:view-quotes:view-invoices:add-stock:view-stock:plant-performance:view-employees:view-companies:add-parts:perform-sales"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:generate-quotes:view-quotes:view-invoices:add-stock:view-stock:plant-performance:view-employees:view-companies:add-parts:perform-sales"/>
+    <file name="pie.js" crc="3827607177" ref="index:generate-quotes:perform-sales:view-quotes:view-invoices:add-stock:add-parts:view-stock:plant-performance:view-employees:view-companies"/>
+    <file name="webpro.js" crc="140723489" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4078529368" ref="index"/>
+  </folder>
+  <folder name="images">
+	<file name="login-favicon.ico" crc="330450565" ref="login"/>
+    <file name="banner back.png" crc="424476659" ref="index:generate-quotes:view-quotes:view-invoices:add-stock:view-stock:plant-performance:view-employees:view-companies:add-parts:perform-sales"/>
+    <file name="favicon.ico" crc="330450565" ref="index"/>
+    <file name="cax_logo_final.png" crc="4063040248" ref="index:generate-quotes:perform-sales:view-quotes:view-invoices:add-stock:add-parts:view-stock:plant-performance:view-employees:view-companies"/>
+  </folder>
+  <file name="login.jsp" crc="4264549485" mt="1413109152701" redirect="true"/>
+  <file name="index.jsp" crc="4228914675" mt="1413107068608" redirect="true"/>
+  <file name="generate-quotes.jsp" crc="4079238934" mt="1413103133038" redirect="true"/>
+  <file name="view-quotes.jsp" crc="310491915" mt="1413103140889" redirect="true"/>
+  <file name="view-invoices.jsp" crc="41113626" mt="1413103116102" redirect="true"/>
+  <file name="add-stock.jsp" crc="522604737" mt="1413103107286" redirect="true"/>
+  <file name="view-stock.jsp" crc="172720281" mt="1413103089250" redirect="true"/>
+  <file name="plant-performance.jsp" crc="267566786" mt="1413103080943" redirect="true"/>
+  <file name="view-employees.jsp" crc="3981572582" mt="1413103069926" redirect="true"/>
+  <file name="view-companies.jsp" crc="235184039" mt="1413103060998" redirect="true"/>
+  <file name="add-parts.jsp" crc="411964818" mt="1413103099104" redirect="true"/>
+  <file name="perform-sales.jsp" crc="154750308" mt="1413103137413" redirect="true"/>
+</manifest>

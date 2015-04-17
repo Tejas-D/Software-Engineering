@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13 Oct 2014, 10:04:13 AM
+    Author     : RD
+*/
+
+#logon
+{    
+    border-radius: 10px;
+    width: 600px; 
+    height:  400px; 
+    margin : auto;
+    margin-left : 200px;
+    margin-top : 50px;
+    position : relative;
+    opacity: 0.5;
+}
+
+#login_button
+{
+    height: 100px;
+    margin-left : 170px;
+}
+
+.transback{
+
+    border-radius: 10px;
+    width:820px; 
+    height:500px; 
+    background-color: #0099FF; 
+    margin : auto;
+    margin-left : 10px;
+    margin-top : 80px;
+    position : absolute;
+    opacity: 0.5;
+
+}
+
+#details {
+    margin-top: 50px;
+}
+
+#logout{
+    width:150px;
+    height:58px;
+    font-family : "Century Gothic";
+    font-size : 36px;
+    text-align : center;
+    position : absolute;
+    margin-left: 130px;
+    margin-top: 28px;
+}
+
+.viewstock{
+    border-radius: 10px;
+    width:820px; 
+    height:500px; 
+    background-color: #0099FF; 
+    margin : auto;
+    margin-left : 200px;
+    margin-top : 100px;
+    position : absolute;
+    display: block;
+    opacity: 0.5;
+}
+
+#stockDown{
+    margin :  auto;
+    margin-left : 150px;
+    margin-top : 100px;
+    position : absolute;
+}
+
+.addstock{
+
+    border-radius: 10px;
+    width:820px; 
+    height:500px; 
+    background-color: #0099FF; 
+    margin : auto;
+    margin-left : 190px;
+    margin-top : 150px;
+    position : absolute;
+    opacity: 0.5;
+
+}
+
+.contain{
+    margin-left: 180px;
+}
+
+#form{
+    margin-top: 100px;
+}
